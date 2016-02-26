@@ -1,0 +1,166 @@
+body{
+	font: 12px/18px Verdana, Geneva,sans-serif;
+	margin: 0px auto;
+}
+#divInnerPage {
+	position: relative;
+	background-color:transparent;
+	font-family: Helvetica,Arial,sans-serif;
+	font-size: 16px;
+	height: 35px;
+	position: relative;
+	width: 970px;
+	margin: 0 auto;
+	text-align: right
+}
+#account{
+	font:12px Helvetica,Arial,sans-serif;
+	width: 200px;
+	height: 35px;
+	margin: .75em .9375em 0 0;
+	display: block;
+	background-color:transparent;
+	float:right;
+	position: relative;
+}
+.view {
+	color:#fff;
+}
+#pageheader {
+	height: 60px;
+	width: 100%;
+	background-color: #6666CC;
+	position: relative;
+	margin: 0px auto;
+}
+.filmlogo {
+	width: 530px;
+	height: 58px;
+	position: relative;
+	margin-top: 0px;
+}
+#container {
+	width: 80%;
+	height:1400px;
+	text-align: left;
+	position: relative;
+	margin: 0px auto;
+	margin-top: 0px;
+}
+ul#side-genre{
+	list-style-type: none;
+}
+ul#side-genre li {
+	padding: 5px;
+	line-height: 40px;
+	width: 100%;
+	height: 20px;
+}
+
+#searchGrid {
+	width: 100%;
+	height: 50px;
+	background-color: #aab20a;
+	position: relative;
+	margin: 0px auto;
+	margin-top: 10px;
+	border-radius: 2px;
+	padding-top: 4px;
+}
+#name {
+	font:40px bold Helvetica,Arial,sans-serif;
+	margin-left: -100px;
+	width: auto;
+	margin: 0px;
+	color: 	#331A00;
+	margin-left: 10%;
+}
+#accountDiv{
+	width: 200px;
+	height: 45px;
+	background-color: transparent;
+	position: relative;
+	margin: 0px;
+	margin-left: 75%;
+	margin-top: -40px;
+}
+#footer{
+	width:960px;
+	height: 37px;
+	background-color: #C8C8C8 ;
+	margin: 0px auto;
+	position: relative;
+}
+#footerUl {
+	width: 800px;
+	height: 40px;
+	position: absolute:;
+	margin: 0px auto;
+	background-color: transparent;
+	padding: 10px;
+}
+#footerUl ul {
+	display: block;
+	margin: 0px auto;
+	list-style-type: none;
+	text-decoration: none;
+}
+#footerUl ul li {
+	display: inline;
+	margin: 5px;
+}
+#footerUl ul li a {
+	text-decoration: none;
+	color: #333;
+}
+#footerUl ul li a:hover {
+	text-decoration: underline;
+}
+form {
+	width: 500px;
+	margin-left: 35px;
+}
+
+.gridTwoAlpha {
+	width: 70%;
+	height:auto;
+	position: relative;	
+	text-align: left;
+	margin-top: 18px;
+	float: right;
+	border:2px solid #F8F8F8;
+
+}
+div#row{
+	text-align: left;
+	margin-left:-50px;
+}
+div#row ul {
+	list-style-type: none;
+}
+div#row ul li {
+	padding: 10px;
+	line-height: 10px;
+}
+div#row ul li a{
+	
+}
+div.movie-category{
+	width: 200px;
+	height: 600px;
+	position: relative;
+	margin-top: 20px;
+	border: 1px solid #DDDDCC;
+}
+div#table-view{
+	margin-left: -50px;
+	width: 70.5%;
+	height: 400px;
+}
+div#table-view table{
+	border-collapse: collapse;
+	background-color:#;
+	width: 100%;
+	color: #333;
+
+}

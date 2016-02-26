@@ -1,0 +1,284 @@
+body {
+	font: 12px/18px Verdana, Geneva,sans-serif;
+	margin: 0px auto;
+}
+divInnerPage {
+	position: relative;
+	background-color:transparent;
+	font-family: Helvetica,Arial,sans-serif;
+	font-size: 16px;
+	height: 35px;
+	position: relative;
+	width: 970px;
+	margin: 0 auto;
+	text-align: right
+}
+#account{
+	font:12px Helvetica,Arial,sans-serif;
+	width: 200px;
+	height: 35px;
+	margin: .75em .9375em 0 0;
+	display: block;
+	background-color:transparent;
+	float:right;
+	position: relative;
+}
+.view {
+	color:#fff;
+}
+#logA {
+	height: 20px;
+	width: 50px;
+	background-color: ;
+	text-decoration: none;
+	border-radius: 5px;
+	margin: 10px;
+	padding: 2px 5px;
+}
+#regA {
+	height: 20px;
+	width: 50px;
+	background-color: ;
+	text-decoration: none;
+	border-radius: 5px;
+	margin: 10px;
+	padding: 2px 5px;
+}
+#pageheader {
+	height: 60px;
+	width: 100%;
+	background-color: #6666CC;
+	position: relative;
+	margin: 0px auto;
+}
+.filmlogo {
+	width: 530px;
+	height: 58px;
+	position: relative;
+	margin-top: 0px;
+}
+#container {
+	width: 960px;
+	height: 500px;
+	background-color: transparent;
+	position: relative;
+	margin: 0px auto;
+	margin-top: 0px;
+}
+#gridConent {
+	width: 70%;
+	height: 500px;
+	background-color: transparent;
+	position: relative;
+	margin: 0px auto;
+	margin-top: 10px;
+}
+#searchGrid {
+	width: 100%;
+	height: 50px;
+	background-color: #aab20a;
+	position: relative;
+	margin: 0px auto;
+	margin-top: 10px;
+	border-radius: 2px;
+	padding-top: 4px;
+}
+#name {
+	font:40px bold Helvetica,Arial,sans-serif;
+	margin-left: -100px;
+	width: auto;
+	margin: 0px;
+	color: 	#331A00;
+	margin-left: 10%;
+}
+#login {
+	width: 200px;
+	height: 45px;
+	position: relative;
+	text-align: left;
+	margin-left:1000px;
+	margin-top:-45px;
+}
+.txt-color {
+	color: #202015;
+}
+#accountDiv{
+	width: 200px;
+	height: 45px;
+	background-color: transparent;
+	position: relative;
+	margin: 0px;
+	margin-left: 65%;
+	margin-top: -55px;
+}
+#footer{
+	width:960px;
+	height: 5.5%;
+	background-color: #C8C8C8 ;
+	position:absolute;
+	margin: auto;
+	margin-left:195px;
+	padding-left: 0px;
+	margin-bottom: 100px;
+	
+}
+#footerUl {
+	width: 800px;
+	height: 40px;
+	position: absolute:;
+	margin: 0px auto;
+	background-color: transparent;
+	padding: 10px;
+}
+#footerUl ul {
+	display: block;
+	margin: 0px auto;
+	list-style-type: none;
+	text-decoration: none;
+}
+#footerUl ul li {
+	display: inline;
+	margin: 5px;
+}
+#footerUl ul li a {
+	text-decoration: none;
+	color: #333;
+}
+#footerUl ul li a:hover {
+	text-decoration: underline;
+}
+form {
+	width: 900px;
+	margin-left: 35px;
+}
+.search {
+	padding: 10px 15px;
+	background-color: #ffffff;
+	border: 0px solid #dbdbdb;
+	width: 70%;
+	font:20px Helvetica,Arial,sans-serif;
+}
+.button {
+	width: 20%;
+	height: 42px;
+	position:relative;
+	padding: 5px 15px;
+	left: -8px;
+	border:2px solid #207cca;
+	background-color:2px solid #207cca;
+	color:#333;
+	border-radius: 5px;
+}
+
+}
+.button:hover {
+	background-color: #333;
+}
+#gridOne {
+	width: 50%;
+	height: 400px;
+	background-color: transparent;
+	padding: 2px;
+	margin-top: 10px;
+	position: relative;
+}
+#gridImage {
+	width: 100%;
+	height: 400px;
+	background-image: url('/images/new-moon-book-movie-cover.JPG');
+	background-repeat: no-repeat;
+}
+#gridTwo {
+	width: 52%;
+	height: 390px;
+	color: #666666;
+	padding: 5px;
+	position: relative;
+	margin-top:-400px;
+	float: right;
+}
+.gridTwoAlpha {
+	width: 100%;
+	height: 370px;
+	background-color: transparent;
+	padding: 5px;
+	position: relative;
+}
+.br {
+	font:15px Helvetica,Arial,sans-serif;
+	color: #666666;
+}
+.homeList {
+	margin:0px;
+	padding: 0px;
+}
+#gtw {
+
+}
+#gtw ul {
+	display: block;
+	margin-left: 0px;
+	padding-left: 0px;
+	list-style: none;
+	text-decoration: none;
+
+}
+#gtw ul li{
+	text-decoration:none;
+	text-align: center;
+	display: block;
+	width: 130px;
+	height: 90px;
+	float:left;
+	margin: 10px;
+	background-color:#E8E8E8 ;
+	font-size: 18px;
+	padding-top: 0px;
+	box-shadow: 0px 0px 10px solid;
+}
+#gtw ul li:hover {
+	background-color: #D0D0D0 ;
+	text-decoration: underline;
+}
+#gtw ul li a{
+	text-decoration: none;
+	color: #484848 ;
+}
+.icon {
+	height: 70px;
+	width: 70px;
+}
+div {
+	display: block;
+}
+.footerName {
+	font:15px Helvetica,Arial,sans-serif;
+	color: #333;
+	margin: 0px auto;
+}
+.NxtPrv {
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	position: fixed;
+	margin-left: 300px;
+	margin-top: -150px;
+}
+.icono {
+background: transparent;
+margin-left: 0px; 
+display: block;
+padding: 0px;
+color: #333;
+width:130px;
+height: 90px;
+text-decoration: none;
+font-size: 16px;
+text-align: center;
+}
+#blah{
+
+
+}
+
+
